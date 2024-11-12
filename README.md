@@ -7,8 +7,8 @@ I'm Avishek Majumder, passionate about Machine Learning, Deep Learning, Natural 
 🤔 Interested in discussing ways to reduce bias in AI models, especially for sensitive applications like healthcare.
 💬 Feel free to ask me about anything, from AI technologies to research collaborations.
 📫 You can reach me at:
-Facebook: arnabgoespop
-Twitter: AvishekMj060
+Facebook: [arnabgoespop](https://www.facebook.com/arnabgoespop/)
+Twitter: [AvishekMj060](https://x.com/AvishekMj060)
 Email: avishekmajumderpciu@gmail.com
 😄 Pronouns: He/Him
 ⚡ Fun fact: In 1997, IBM's Deep Blue famously defeated world chess champion Garry Kasparov, marking a historic moment in AI.
